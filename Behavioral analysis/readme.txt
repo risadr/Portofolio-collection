@@ -1,1 +1,0 @@
-This Behavioral analysis is designed to read mat file. The aim of this code is to form the data set and removing the noisy of the data. 
